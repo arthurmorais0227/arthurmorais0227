@@ -6,11 +6,16 @@ Sou um apaixonado por tecnologia e programação, sempre em busca de novos conhe
 
 ### 🎮 Sobre mim
 
+## ❤️ Meu grande amor - 13/09/2021 - Rafaela Simonetti
+
+![momozi](https://github.com/user-attachments/assets/ba2b75ac-8372-4470-bbdc-baf2b1eeb862)
+
+
 * Gosto de jogar **futebol**, **video game** e relaxar assistindo **filmes** e **séries**.
 * Minha comida favorita é **pizza**.
 * Sou **brasileiro** e torço pelos meus times do coração: **Corinthians** e **Barcelona**.
 
-<img width="1920" height="1080" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/496a55a7-7af5-45d2-a109-015d3224cb29" />
+<img width="1280" height="720" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/496a55a7-7af5-45d2-a109-015d3224cb29" />
 
 ### 📚 Educação e Cursos
 
