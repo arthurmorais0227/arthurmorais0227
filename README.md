@@ -10,7 +10,7 @@ Sou um apaixonado por tecnologia e programação, sempre em busca de novos conhe
 * Minha comida favorita é **pizza**.
 * Sou **brasileiro** e torço pelos meus times do coração: **Corinthians** e **Barcelona**.
 
-<img src="C:\Users\Arthur Morais\Downloads\Design sem nome (1).png" alt="eu e meu amigo">
+<img width="1920" height="1080" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/496a55a7-7af5-45d2-a109-015d3224cb29" />
 
 ### 📚 Educação e Cursos
 
