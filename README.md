@@ -4,10 +4,6 @@ Seja bem-vindo(a) ao meu GitHub. Fico feliz em ter você por aqui!
 
 Sou um apaixonado por tecnologia e programação, sempre em busca de novos conhecimentos e desafios.
 
-### ❤️ Meu grande amor - 13/09/2021 - Rafaela Simonetti
-
-![momozis 12](https://github.com/user-attachments/assets/17f1d49e-330f-4175-95b2-a2523af3e85e)
-
 ### 🎮 Sobre mim
 
 * Gosto de jogar **futebol**, **video game** e relaxar assistindo **filmes** e **séries**.
