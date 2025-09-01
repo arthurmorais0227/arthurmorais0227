@@ -9,8 +9,8 @@ Sou um apaixonado por tecnologia e programação, sempre em busca de novos conhe
 * Gosto de jogar **futebol**, **video game** e relaxar assistindo **filmes** e **séries**.
 * Minha comida favorita é **pizza**.
 * Sou **brasileiro** e torço pelos meus times do coração: **Corinthians** e **Barcelona**.
-  
-<img width="512" height="293" alt="unnamed" src="https://github.com/user-attachments/assets/93f7505c-4cde-437e-a2af-1dba86a610e9" />
+
+<img width="1344" height="768" alt="Gemini_Generated_Image_1wcmlf1wcmlf1wcm" src="https://github.com/user-attachments/assets/14712cc8-7f37-4249-865a-2d85e5f2b6e0" />
 
 ### 📚 Educação e Cursos
 
