@@ -13,8 +13,8 @@ Sou um apaixonado por tecnologia e programação, sempre em busca de novos conhe
 * Gosto de jogar **futebol**, **video game** e relaxar assistindo **filmes** e **séries**.
 * Minha comida favorita é **pizza**.
 * Sou **brasileiro** e torço pelos meus times do coração: **Corinthians** e **Barcelona**.
-
-<img alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/496a55a7-7af5-45d2-a109-015d3224cb29" width="1280" height="720" />
+* 
+<img width="512" height="293" alt="unnamed" src="https://github.com/user-attachments/assets/93f7505c-4cde-437e-a2af-1dba86a610e9" />
 
 ### 📚 Educação e Cursos
 
