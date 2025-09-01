@@ -10,6 +10,8 @@ Sou um apaixonado por tecnologia e programação, sempre em busca de novos conhe
 * Minha comida favorita é **pizza**.
 * Sou **brasileiro** e torço pelos meus times do coração: **Corinthians** e **Barcelona**.
 
+<img src="C:\Users\Arthur Morais\Downloads\Design sem nome (1).png" alt="eu e meu amigo">
+
 ### 📚 Educação e Cursos
 
 Aqui estão algumas das minhas formações e certificações:
@@ -24,3 +26,4 @@ Aqui estão algumas das minhas formações e certificações:
 * Implantação de Serviços de Inteligência Artificial em Nuvem (Microsoft AI-900) - ✅
 * Princípios de Segurança da Informação (Cibersegurança) - ✅
 * Implantação de Serviços de Inteligência Artificial em Nuvem (Google Cloud AI Foundations) - ✅
+
