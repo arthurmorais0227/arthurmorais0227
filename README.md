@@ -15,7 +15,7 @@ Sou um apaixonado por tecnologia e programação, sempre em busca de novos conhe
 * Minha comida favorita é **pizza**.
 * Sou **brasileiro** e torço pelos meus times do coração: **Corinthians** e **Barcelona**.
 
-<img width="1280" height="720" alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/496a55a7-7af5-45d2-a109-015d3224cb29" />
+<img alt="Design sem nome (1)" src="https://github.com/user-attachments/assets/496a55a7-7af5-45d2-a109-015d3224cb29" width="1280" height="720" />
 
 ### 📚 Educação e Cursos
 
